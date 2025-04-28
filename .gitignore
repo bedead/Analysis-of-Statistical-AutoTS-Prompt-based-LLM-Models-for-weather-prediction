@@ -1,0 +1,3 @@
+venv
+notebooks\lightning_logs
+.env
